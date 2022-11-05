@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitdalvi&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitdalvi" /> </p>
 
-- 🔭 I’m currently working on **Front-End Development**
+- 🔭 I’m currently working on **Back-End Development**
 
-- 🌱 I’m currently learning **ReactJS AND BACKEND For Full Stack Development**
+- 🌱 I’m currently learning "MERN STACk" For **Full Stack Development**
 
 - 💬 Ask me about **FRONT-END And Web-Design**
 
 - 📫 How to reach me **rakshit14dalvi@gmail.com**
 
-- ⚡ Fun fact **I Like To Create Attractive Web-design and Websites**
+- ⚡ Fun fact **I Like To Create Attractive Web-design and Websites With Attractive Animations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
